@@ -50,9 +50,12 @@ Microsoft Excel (Excel for the web): Pivot Tables, Pivot Charts, Slicers, Condit
 5. Wrote insights and recommendations from the results.
 
 ## Dashboard Preview
-![Dashboard Overview](Screenshot%202026-11-26%20102500.png)
-![Dashboard Analysis](Screenshot%202026-11-26%20170751.png)
-![Dashboard Insights](Screenshot%202026-11-26%20170917.png)
+
+![Dashboard 1](Screenshot%202026-11-26%20102500.png)
+
+![Dashboard 2](Screenshot%202026-11-26%20170751.png)
+
+![Dashboard 3](Screenshot%202026-11-26%20170917.png)
 
 ## Key Findings (Economy fares unless stated)
 - Booking window: fares average about ₹14,600 one day before departure vs about ₹5,300 at 20 days (about 2.8x), rising sharply in the last two weeks.
