@@ -52,7 +52,7 @@ Microsoft Excel (Excel for the web): Pivot Tables, Pivot Charts, Slicers, Condit
 ## Dashboard Preview
 ![Dashboard](<img width="1039" height="404" alt="Screenshot 2026-11-26 102500" src="https://github.com/user-attachments/assets/7b8d62a9-3572-4d92-9717-b2396f60b493" />
 )
-![Dashboard](Screenshot 2026-11-26 102500.png)
+![Dashboard](Screenshot 2026-11-26 170751.png)
 ![Dashboard](Screenshot 2026-11-26 170751.png)
 ![Dashboard](Screenshot 2026-11-26 170917.png)
 
